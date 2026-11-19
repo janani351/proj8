@@ -1,4 +1,4 @@
-# Pomodoro Focus Timer
+# Calculator
 
 A responsive, browser-based mini project built with **HTML, CSS and vanilla JavaScript**.
 
